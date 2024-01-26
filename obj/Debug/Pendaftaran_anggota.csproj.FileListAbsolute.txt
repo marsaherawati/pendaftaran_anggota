@@ -1,0 +1,9 @@
+D:\magang\Pendaftaran_anggota\obj\Debug\Pendaftaran_anggota.csproj.AssemblyReference.cache
+D:\magang\Pendaftaran_anggota\obj\Debug\Pendaftaran_anggota.csproj.SuggestedBindingRedirects.cache
+D:\magang\Pendaftaran_anggota\obj\Debug\Pendaftaran_anggota.Form1.resources
+D:\magang\Pendaftaran_anggota\obj\Debug\Pendaftaran_anggota.LoginForm.resources
+D:\magang\Pendaftaran_anggota\obj\Debug\Pendaftaran_anggota.Properties.Resources.resources
+D:\magang\Pendaftaran_anggota\obj\Debug\Pendaftaran_anggota.csproj.GenerateResource.cache
+D:\magang\Pendaftaran_anggota\obj\Debug\Pendaftaran_anggota.csproj.CoreCompileInputs.cache
+D:\magang\Pendaftaran_anggota\obj\Debug\Pendaftaran_anggota.EditProfileForm.resources
+D:\magang\Pendaftaran_anggota\obj\Debug\Pendaftaran_anggota.RegisterForm.resources
